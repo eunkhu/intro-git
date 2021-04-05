@@ -1,6 +1,7 @@
 vscodeとGitを使う。
  git add
  git commit
+ git rm
  
 
 
