@@ -1,5 +1,7 @@
 vscodeとGitを使う。
-
+ git add
+ git commit
+ 
 
 
 
